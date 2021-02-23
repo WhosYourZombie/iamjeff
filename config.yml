@@ -84,5 +84,7 @@ params:
     socialIcons:
         - name: mastodon
           url: "https://"
+        - name: odysee
+          url: "https://odysee.com/@zombiefarm:b"
         - name: buymeacoffee
           url: "https://www.buymeacoffee.com/whosyourzombie"
