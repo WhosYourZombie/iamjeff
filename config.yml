@@ -1,6 +1,6 @@
 baseURL: /
 languageCode: en-us
-title: ZombieFarm.space 🌌
+title: iamJeff
 theme: "PaperMod"
 
 enableInlineShortcodes: true
@@ -43,7 +43,7 @@ outputs:
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
     description: "Theme PaperMod - https://github.com/adityatelange/hugo-PaperMod"
-    author: Zombie
+    author: Jeff
     # author: ["Me", "You"] # multiple authors
 
     defaultTheme: dark
@@ -77,8 +77,8 @@ params:
     homeInfoParams:
         Title: "Welcome"
         Content: >
-            Welcome to the Zombie Farm.
-            - **ZombieFarm** is a space where you will be able to find my thoughts and interests on a variety of subjects.
+            Welcome to iamJeff.
+            - **iamJeff** is a space where you will be able to find my thoughts and interests on a variety of subjects.
             - You can reach me at any of the places listed below.
 
     socialIcons:
