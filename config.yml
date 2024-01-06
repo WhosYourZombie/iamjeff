@@ -84,7 +84,7 @@ params:
     socialIcons:
         - name: mastodon
           url: "https://social.lol/@iamjeff"
-        - name: odysee
-          url: "https://odysee.com/@zombiefarm:b"
-        - name: buymeacoffee
-          url: "https://www.buymeacoffee.com/whosyourzombie"
+        - name: pixelfed
+          url: "https://"
+        - name: microblog
+          url: "https://"
