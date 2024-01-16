@@ -85,6 +85,6 @@ params:
         - name: mastodon
           url: "https://social.lol/@iamjeff"
         - name: pixelfed
-          url: "https://"
+          url: "https://pixelfed.social/i/web/profile/652670063994838436"
         - name: microblog
-          url: "https://"
+          url: "https://iamjeff.micro.blog"
